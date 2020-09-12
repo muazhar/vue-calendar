@@ -2,16 +2,8 @@
 Time efficient implementation of Vue Calendar Control
 
 ## Install
-
+Clone Repository, Change main.js with your firebase key
 ```sh
-# Install globally (recommended).
-npm install -g corona-cli
-
-# Or run directly with npx (installs CLI on every run).
-npx corona-cli
-```
-
-# Firebase Initialization Event - <KEY>
 firebase.initializeApp({
   apiKey: "",
     authDomain: "",
@@ -21,3 +13,9 @@ firebase.initializeApp({
     messagingSenderId: "",
     appId: ""
 });
+```
+
+```sh
+# Install globally (recommended).
+npm run serve
+```
