@@ -1,5 +1,6 @@
 # vue-calendar
 Time efficient implementation of Vue Calendar Control
+![GDevelop logo](https://raw.githubusercontent.com/muazhar/vue-calendar/blob/master/Calendar.PNG "Vue Calendar")
 
 ## Project setup
 ```
